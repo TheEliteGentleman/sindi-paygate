@@ -1,0 +1,27 @@
+#surefire
+#Mon Jun 20 00:43:46 CAT 2016
+testClassesDirectory=D\:\\Personal\\Projects\\Eclipse\\Workspace\\sindi-paygate\\target\\test-classes
+classPathUrl.4=C\:\\Users\\buhake.sindi\\.m2\\repository\\junit\\junit\\4.12\\junit-4.12.jar
+classPathUrl.3=C\:\\Users\\buhake.sindi\\.m2\\repository\\za\\co\\sindi\\sindi-codec\\0.0.1-SNAPSHOT\\sindi-codec-0.0.1-SNAPSHOT.jar
+classPathUrl.2=C\:\\Users\\buhake.sindi\\.m2\\repository\\za\\co\\sindi\\sindi-commons\\0.0.1-SNAPSHOT\\sindi-commons-0.0.1-SNAPSHOT.jar
+useManifestOnlyJar=true
+classPathUrl.1=D\:\\Personal\\Projects\\Eclipse\\Workspace\\sindi-paygate\\target\\classes
+reportsDirectory=D\:\\Personal\\Projects\\Eclipse\\Workspace\\sindi-paygate\\target\\surefire-reports
+classPathUrl.0=D\:\\Personal\\Projects\\Eclipse\\Workspace\\sindi-paygate\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=D\:\\Personal\\Projects\\Eclipse\\Workspace\\sindi-paygate\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\buhake.sindi\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.12.4\\surefire-api-2.12.4.jar
+surefireClassPathUrl.0=C\:\\Users\\buhake.sindi\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.12.4\\surefire-junit4-2.12.4.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+tc.0=za.co.sindi.paygate.payxml.TransactionTest
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+runStatisticsFile=D\:\\Personal\\Projects\\Eclipse\\Workspace\\sindi-paygate\\.surefire-1D05A5352C5BF04E5335D08F6B0B64F63E50383F
+includes0=**/Test*.java
+childDelegation=false
+classPathUrl.5=C\:\\Users\\buhake.sindi\\.m2\\repository\\org\\hamcrest\\hamcrest-core\\1.3\\hamcrest-core-1.3.jar
